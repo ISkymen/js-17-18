@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles1.scss","styles2.scss"],"names":[],"mappings":"AAAA;EACE,WAAW;EACX,mBAAmB,EACpB;;ACHD;EACE,aAAa;EACb,mBAAmB,EACpB","file":"styles.css","sourcesContent":[".styles1 {\n  color: red;\n  text-align: center;\n}",".styles2 {\n  color: green;\n  text-align: center;\n}"],"sourceRoot":"/source/"}
